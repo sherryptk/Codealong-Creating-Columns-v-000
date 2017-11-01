@@ -85,6 +85,10 @@ img, video, audio{
 
 /*LAYOUT*/
 
+*{
+  box-sizing: border-box;
+}
+
 .col-1{
   float: left;
   width: 32%;
