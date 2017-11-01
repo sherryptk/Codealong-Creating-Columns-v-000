@@ -71,11 +71,19 @@ figcaption {
   color: red;
 }
 
+
 .wrapper{
   width: 960px;
   margin: 0 auto;
   background: #eee;
 }
+/*MEDIA*/
+
+img, video, audio{
+  max-width: 100%
+}
+
+/*LAYOUT*/
 
 .col-1{
   float: left;
